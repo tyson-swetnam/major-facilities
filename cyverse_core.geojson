@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "cyverse_core",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "marker-color": "#7e7e7e", "marker-size": "large", "marker-symbol": "rocket", "SiteID": "CUS", "Site Name": "CyVerse", "Type": "Cloud", "Type ": "Storage", "Scheduler": "HTCondor", "Storage ": "Yes", "CPU": "Yes", "GPU": "Yes", "Interconnect": "10", "Website": "https://cyverse.org/", "Internet2": "Yes", "Latitude": "32.237973724284515", "Longitude": "-110.94798803329468", "Cloud": "OpenStack", "XSEDE": "No", "Cloud Platform": null, "XSEDE Project": null, "ukLatitude": null, "ukLongitude": null }, "geometry": { "type": "Point", "coordinates": [ -12350673.532404573634267, 3794589.07322519319132 ] } },
+{ "type": "Feature", "properties": { "marker-color": "#7e7e7e", "marker-size": "medium", "marker-symbol": "star", "SiteID": "IU", "Site Name": "Indiana University", "Type": "Cloud", "Type ": "Storage", "Scheduler": "", "Storage ": "Yes", "CPU": "Yes", "GPU": "Yes", "Interconnect": "10", "Website": "https://jetstream-cloud.org/", "Internet2": "Yes", "Latitude": "", "Longitude": "", "Cloud": null, "XSEDE": "Yes", "Cloud Platform": "OpenStack", "XSEDE Project": "Jetstream-2", "ukLatitude": null, "ukLongitude": null }, "geometry": { "type": "Point", "coordinates": [ -9631562.404616061598063, 4746574.639167208224535 ] } },
+{ "type": "Feature", "properties": { "marker-color": "#7e7e7e", "marker-size": "medium", "marker-symbol": "star", "SiteID": "TACC", "Site Name": "Texas Advanced Computing Center", "Type": "Cloud", "Type ": null, "Scheduler": "Slurm", "Storage ": "Yes", "CPU": "Yes", "GPU": "Yes", "Interconnect": "10", "Website": "https://www.tacc.utexas.edu/", "Internet2": "Yes", "Latitude": "", "Longitude": "", "Cloud": null, "XSEDE": "Yes", "Cloud Platform": "OpenStack", "XSEDE Project": "Jetstream-2", "ukLatitude": null, "ukLongitude": null }, "geometry": { "type": "Point", "coordinates": [ -10878768.674545345827937, 3553804.670991202350706 ] } }
+]
+}

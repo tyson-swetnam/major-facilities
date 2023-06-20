@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "nsf_major_facilities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Academic Research Fleet (ARF)", "majorfacilitytype": "Geosciences", "address": "875 N Randolph St, Arlington, VA 22217", "coordinates": [ -77.0363, 38.8972 ] }, "geometry": { "type": "Point", "coordinates": [ -8575641.688597859814763, 4706957.033636257983744 ] } },
+{ "type": "Feature", "properties": { "name": "Antarctic Infrastructure Modernization for Science (AIMS)", "majorfacilitytype": "Geosciences", "address": "McMurdo Station, Antarctica", "coordinates": [ -166.676, -77.846 ] }, "geometry": { "type": "Point", "coordinates": [ -18554287.447459664195776, -14286746.908758893609047 ] } },
+{ "type": "Feature", "properties": { "name": "Geodetic Facility for the Advancement of Geoscience (GAGE)", "majorfacilitytype": "Geosciences", "address": "6350 Nautilus Dr suite b/c, Boulder, CO 80301", "coordinates": [ -105.2706, 40.015 ] }, "geometry": { "type": "Point", "coordinates": [ -11718669.58750238455832, 4868122.278104176744819 ] } }
+]
+}
